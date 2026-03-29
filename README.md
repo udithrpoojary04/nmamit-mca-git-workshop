@@ -21,7 +21,7 @@ Welcome to the **Git & GitHub Workshop**! This repository is your hands-on playg
 | Merge Conflicts | 10 min |
 | GitHub Actions (CI/CD) | 15 min |
 | Best Practices & Interview Tips | 10 min |
-| Q&A | 10 min |
+| Q&A | 10 min  |
 
 ## Quick Setup
 
